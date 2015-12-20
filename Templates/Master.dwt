@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Container {
+	background-color: #CCC;
+	margin: auto;
+	width: 950px;
+}
+
+#Banner	{
+	background-color: #60F;
+	width	: 100%;
+	float	: left;
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 100px;
+}
+
+#Nav_bar {
+	background-color:#FC9;
+	width:	100%;
+	float:	left;
+}
+
+#MainContent	{
+	background-color:#C9F;
+	width:	100%;
+	float:	left;
+}
+
+#Footer	{
+	background-color: #99F;
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-size: 10px;
+}
